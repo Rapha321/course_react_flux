@@ -1,25 +1,11 @@
 {
   "courses": [
     {
-      "id": 5,
-      "title": "Building Applications with React and Redux",
-      "slug": "react-redux-react-router-es6",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
       "id": 6,
       "title": "Building Applications in React and Flux",
       "slug": "react-flux-building-applications",
       "authorId": 1,
       "category": "JavaScript"
-    },
-    {
-      "id": 7,
-      "title": "Clean Code: Writing Code for Humans",
-      "slug": "writing-clean-code-humans",
-      "authorId": 1,
-      "category": "Software Practices"
     },
     {
       "id": 8,
@@ -34,6 +20,21 @@
       "slug": "career-reboot-for-developer-mind",
       "authorId": 1,
       "category": "Career"
+    },
+    {
+      "id": 10,
+      "title": "Web Component Fundamentals",
+      "slug": "web-components-shadow-dom",
+      "authorId": 1,
+      "category": "HTML5"
+    },
+    {
+      "id": 11,
+      "slug": "appartment-rental",
+      "title": "Appartment rental",
+      "authorId": 1,
+      "category": "fresh new course",
+      "createdAt": 1594424649634
     }
   ],
   "authors": [
